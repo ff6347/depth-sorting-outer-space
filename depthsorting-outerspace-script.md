@@ -65,8 +65,9 @@ script/brush
 
 - ["Sofia" Script headlines](http://www.fontsquirrel.com/fonts/sofia)
 - ["Lavanderia" Script](http://www.losttype.com/font/?name=lavanderia)
-- [Fink Brush](http://www.houseind.com/fonts/ratfinkfonts/viewfonts)  
-
+- ["Fink" Brush](http://www.houseind.com/fonts/ratfinkfonts/viewfonts)  
+- [QuigleyWiggly](http://www.fontsquirrel.com/fonts/QuigleyWiggly)   
+- [qwigley](http://www.fontsquirrel.com/fonts/qwigley)  
 serif  
 
 - ["Telefono" Serif Technical Headlines](http://www.behance.net/gallery/TELFONO-Free-Font/2062516)  
