@@ -1,0 +1,8 @@
+Spacecraft,Locations,Launched,Results
+Mars 3 Lander (USSR), 45S - 158W,1971,First successful landing on Mars - sent signal for 20 seconds after landing.
+Viking 1 Lander (USA), 22.46N - 47.95W,1975,Landed successfully - operated for more than 6 years. Returned extensive science results.
+Viking 2 Lander (USA), 47.93N - 133.74E,1975,Landed successfully - operated for more than 3.5 years. Returned extensive science results.
+Mars Pathfinder Rover (USA), 19.26N - 33.25W,1996,Landed successfully - operated for just under 3 months.
+MER Spirit Rover (USA), 14.57S - 175.47E,2003,Landed successfully in January of 2004- operated for just over 7 years - 4 months.
+MER Opportunity Rover (USA), 1.95S - 5.53W,2003,Landed successfully in January of 2004 - still running.
+Curiosity (USA), 4.3S - 137.2E,2012,Landed successfully. Currently in operation.
