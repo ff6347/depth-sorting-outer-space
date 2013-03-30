@@ -34,7 +34,7 @@ Something else....Somebody
 -------------
 ##Science Stuff Infos  
 
-solar system asteroid belt --> [](http://en.wikipedia.org/wiki/Asteroid_belt) 
+[solar system asteroid belt](http://en.wikipedia.org/wiki/Asteroid_belt) 
 
 ##Models and Textures  
 
