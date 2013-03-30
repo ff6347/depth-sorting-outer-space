@@ -1,6 +1,7 @@
 #Script  
 
-1. Title we see a chart, a bit shakey with some flicker and dust. With the the Text: Kevin Schires & Fabian Morón Zirfas present
+1. Title we see a chart, a bit shakey with some flicker and dust. With the the Text:
+Kevin Schires & Fabian Morón Zirfas present
 2. Next Chart the title: DEPTH SORTING OUTER SPACE! (just a working title - I'm open to suggestions)
 3. another chart: a Kevin Schires & Fabian Morón Zirfas Production. 
 COMMENT: Would be cool to have a voice over in Futurama style. This loud voice. I could try to record it. 
@@ -34,6 +35,12 @@ Something else....Somebody
 ##Science Stuff Infos  
 
 solar system asteroid belt --> [](http://en.wikipedia.org/wiki/Asteroid_belt) 
+
+##Models and Textures  
+- [celestia motherlode](http://www.celestiamotherlode.net/)  
+- [NASA 3D Models](http://www.nasa-usa.de/multimedia/3d_resources/models.html)  
+- [NASA Textures](http://www.nasa-usa.de/multimedia/3d_resources/images.html)  
+
 
 ##Sci Fi Trailers  
 
