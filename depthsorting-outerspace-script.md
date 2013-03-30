@@ -37,10 +37,14 @@ Something else....Somebody
 solar system asteroid belt --> [](http://en.wikipedia.org/wiki/Asteroid_belt) 
 
 ##Models and Textures  
+
 - [celestia motherlode](http://www.celestiamotherlode.net/)  
 - [NASA 3D Models](http://www.nasa-usa.de/multimedia/3d_resources/models.html)  
 - [NASA Textures](http://www.nasa-usa.de/multimedia/3d_resources/images.html)  
 
+##Normal Map Tool   
+
+- [normal-map](https://github.com/sinisterchipmunk/normal-map) Command line tool and Ruby library for generating normal maps. __Usage__  `normal-map generate mars.jpg mars_normal.jpg`
 
 ##Sci Fi Trailers  
 
@@ -68,19 +72,20 @@ solar system asteroid belt --> [](http://en.wikipedia.org/wiki/Asteroid_belt)
 - ["orbitron" headlines sans serif technical](http://theleagueofmoveabletype.com/orbitron)  
 - ["blackout" headline sans serif simple technical no inner space](http://theleagueofmoveabletype.com/blackout)  
 
-script/brush  
+__script/brush__  
 
 - ["Sofia" Script headlines](http://www.fontsquirrel.com/fonts/sofia)
 - ["Lavanderia" Script](http://www.losttype.com/font/?name=lavanderia)
 - ["Fink" Brush](http://www.houseind.com/fonts/ratfinkfonts/viewfonts)  
 - [QuigleyWiggly](http://www.fontsquirrel.com/fonts/QuigleyWiggly)   
 - [qwigley](http://www.fontsquirrel.com/fonts/qwigley)  
-serif  
+
+__serif__  
 
 - ["Telefono" Serif Technical Headlines](http://www.behance.net/gallery/TELFONO-Free-Font/2062516)  
 
-sans serif  
-
+__sans serif__  
+ 
 - [400ml Type Sans Serif old style headlines](http://marcoterre.com/index.php/2012/400ml-type/)  
 - ["Myra" sans serif headlines](http://fontfabric.com/myra-free-font/)  
 - ["KanKin" sans serif headlines](http://fontfabric.com/kankin-free-font/)  
