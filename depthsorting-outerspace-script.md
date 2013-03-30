@@ -48,10 +48,10 @@ solar system asteroid belt --> [](http://en.wikipedia.org/wiki/Asteroid_belt)
 
 ##Sci Fi Trailers  
 
-[Trailer Time Machine 1960](http://www.youtube.com/watch?v=A9miqKm0aB0)
-[HIDEOUS SUN DEMON 1959 SCI-FI TRAILER](http://www.youtube.com/watch?v=XqLoxDQgptY)
-[1950s Sci-Fi Film Trailers](http://www.youtube.com/watch?v=C4cIT1snWoU)
-[Sci Fi Trailers Playlist](http://www.youtube.com/watch?v=DQvOoLWkgvY&playnext=1&list=PLB54A0DD58FDD3E8F&feature=results_main)
+- [Trailer Time Machine 1960](http://www.youtube.com/watch?v=A9miqKm0aB0)  
+- [HIDEOUS SUN DEMON 1959 SCI-FI TRAILER](http://www.youtube.com/watch?v=XqLoxDQgptY)  
+- [1950s Sci-Fi Film Trailers](http://www.youtube.com/watch?v=C4cIT1snWoU)  
+- [Sci Fi Trailers Playlist](http://www.youtube.com/watch?v=DQvOoLWkgvY&playnext=1&list=PLB54A0DD58FDD3E8F&feature=results_main)  
 
 ##Sci Fi Movies  
 
